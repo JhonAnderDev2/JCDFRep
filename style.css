@@ -38,3 +38,7 @@ button {
         padding: 25px;   
         background-color: rgb(44, 44, 44);  
     }   
+
+  p {
+    text-align: center;
+  }
